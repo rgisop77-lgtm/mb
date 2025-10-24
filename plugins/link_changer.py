@@ -105,3 +105,4 @@ class LinkChanger:
         return await db.get_user_channels(user_id)
 
 link_changer = LinkChanger()
+            
